@@ -4,7 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 const BlogItem = ({image, category, description, title}) => {
     return (
-        <div className='p-2 m-4 border-2 border-black rounded-md max-h-96'>
+        <div className='p-2 m-4 border-2 border-black rounded-md max-h-96 hover:border-x-4 transition-all'>
             <Image src={image} 
                 alt=''
                 width={200}
