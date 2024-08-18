@@ -18,7 +18,7 @@ export const blog_data =[
     {
         id:1,
         title: "Wired",
-        description: "Wired is a massively popular publication, good at capturing real insights into the tech world, no stranger to topics like technology, entertainment, science, culture, politics, and social media. Informed and comprehensive, Wired is basically the perfect tech blog to follow.",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_01,
         date: Date.now(),
         category:"Technology",
@@ -36,7 +36,7 @@ export const blog_data =[
     {
         id:3,
         title: " Recode",
-        description: "Recode is uncovering and explaining how our tech world is changing by focusing on the businesses of Silicon Valley.",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_03,
         date: Date.now(),
         category:"Technology",
@@ -45,7 +45,7 @@ export const blog_data =[
     {
         id:4,
         title: " Mashable",
-        description: "Powered by its own proprietary technology, this tech blog is the go-to source for tech, digital culture, and entertainment content for its influential and dedicated global audience!",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_04,
         date: Date.now(),
         category:"Technology",
@@ -54,7 +54,7 @@ export const blog_data =[
     {
         id:5,
         title: " CNET",
-        description: "CNET stays ahead of the curve by spreading its hands on all sorts of incredible tech products, and trends and offering unbiased reviews.",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_05,
         date: Date.now(),
         category:"Technology",
@@ -63,7 +63,7 @@ export const blog_data =[
     {
         id:6,
         title: " Startupbootcamp Blog",
-        description: "Startupbootcamp is a global network of industry-focused startup accelerators, supporting early-stage tech founders to rapidly scale their companies by providing direct access to an international network of mentors, partners, and investors.",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_06,
         date: Date.now(),
         category:"StartUp",
@@ -72,7 +72,7 @@ export const blog_data =[
     {
         id:7,
         title: "StartUs Magazine",
-        description: "Startupbootcamp is a global network of industry-focused startup accelerators, supporting early-stage tech founders to rapidly scale their companies by providing direct access to an international network of mentors, partners, and investors.",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_07,
         date: Date.now(),
         category:"StartUp",
@@ -81,7 +81,7 @@ export const blog_data =[
     {
         id:8,
         title: "StartUs Magazine",
-        description: "Startupbootcamp is a global network of industry-focused startup accelerators, supporting early-stage tech founders to rapidly scale their companies by providing direct access to an international network of mentors, partners, and investors.",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_08,
         date: Date.now(),
         category:"StartUp",
@@ -90,7 +90,7 @@ export const blog_data =[
     {
         id:9,
         title: "StartupNation",
-        description: "StartupNation is a comprehensive platform offering resources, advice, and community support for entrepreneurs. Founded by Jeff and Rich Sloan, the blog provides a wealth of information on business planning.",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_09,
         date: Date.now(),
         category:"StartUp",
@@ -99,7 +99,7 @@ export const blog_data =[
     {
         id:10,
         title: "Startup Daily",
-        description: "Startup Daily is a leading publication that covers the dynamic tech ecosystem in Australia and New Zealand.",
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
         image: blog_img_10,
         date: Date.now(),
         category:"StartUp",
@@ -108,8 +108,8 @@ export const blog_data =[
     {
         id:11,
         title: "Cup of jo",
-        description: "Cup of Jo presents a clean, modern design that’s easy to navigate and visually appealing.",
-        image: blog_img_11,
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
+        image: blog_img_05,
         date: Date.now(),
         category:"Lifestyle",
         Author: "Md. Biplob",
@@ -117,8 +117,8 @@ export const blog_data =[
     {
         id:12,
         title: "The Chriselle Factor",
-        description: "The website has a stylish, modern look that shows off Chriselle Lim’s knowledge of fashion and beauty.",
-        image: blog_img_12,
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
+        image: blog_img_04,
         date: Date.now(),
         category:"Lifestyle",
         Author: "Md. Hown",
@@ -126,8 +126,8 @@ export const blog_data =[
     {
         id:13,
         title: "The Skinny Confidential",
-        description: "The blog has a fashionable, vibrant feel with its stylish design and signature pink color scheme.",
-        image: blog_img_13,
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
+        image: blog_img_03,
         date: Date.now(),
         category:"Lifestyle",
         Author: "Md. Hown",
@@ -135,8 +135,8 @@ export const blog_data =[
     {
         id:14,
         title: "Ape To Gentleman",
-        description: "The blog has a fashionable, vibrant feel with its stylish design and signature pink color scheme.",
-        image: blog_img_14,
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
+        image: blog_img_02,
         date: Date.now(),
         category:"Lifestyle",
         Author: "Md. Hown",
@@ -144,8 +144,8 @@ export const blog_data =[
     {
         id:15,
         title: "Camille Styles",
-        description: "The blog has a fashionable, vibrant feel with its stylish design and signature pink color scheme.",
-        image: blog_img_15,
+        description: "Invest yourself in the business verse of the tech world with one of the most popular technology blogs thriving this year- TechCrunch.",
+        image: blog_img_01,
         date: Date.now(),
         category:"Lifestyle",
         Author: "Md. Hown",
