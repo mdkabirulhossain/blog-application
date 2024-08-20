@@ -13,10 +13,10 @@ const BLogList = () => {
                 <button onClick={()=>setMenu('StartUp')} className={menu === 'StartUp'? 'bg-black text-white p-2 rounded-md px-4': 'text-black'}>StartUp</button>
                 <button onClick={()=>setMenu('Lifestyle')} className={menu === 'Lifestyle'? 'bg-black text-white p-2 rounded-md px-4': 'text-black'}>LifeStyle</button>
             </div>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4'>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
                 {
                     blog_data.filter(item=> menu === 'All'? true : item.category === menu).map(item=><div key={item.id}>
-                        <BlogItem image={item.image} title={item.title} category={item.category} description={item.description}/>
+                        <BlogItem id={item.id} image={item.image} title={item.title} category={item.category} description={item.description}/>
                     </div>)
                 }
             </div>
